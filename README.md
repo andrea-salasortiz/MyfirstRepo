@@ -7,7 +7,10 @@ Here's our todo:
 
 - [x] Create a new file
 
-- [ ] Make our first commit
 
 - [ ] Fix this tpyo
 
+
+# I will do a different thing
+
+There is ...
