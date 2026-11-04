@@ -6,11 +6,10 @@ Here's our todo:
 
 
 - [x] Create a new file
-
-
-- [ ] Fix this tpyo
+- [x] Make our first commit
+- [x] Fix this tpyo
 
 
 # I will do a different thing
 
-There is ...
+
